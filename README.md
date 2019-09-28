@@ -5,6 +5,7 @@ jQuery: The Write Less, Do More, JavaScript Library.
 <ul>
    <li><a href="https://jquery.com/">jQuery Official</a></li> 
   <li><a href="http://youmightnotneedjquery.com/">You Might Not Need jQuery</a></li>
+   <li><a href="https://keycode.info/">JavaScript Event KeyCodes</a></li> 
 
 </ul>
 
